@@ -1,0 +1,32 @@
+// let x =prompt('hello')
+for(i=0;i<=10;i+=1){
+    console.log(i)
+}
+console.log("number2")
+for(i=0;i<=20;i+=2){
+    console.log(i)
+}console.log("number3")
+for(i=0;i<=30;i+=3){
+    console.log(i)
+}console.log("number4")
+for(i=0;i<=40;i+=4){
+    console.log(i)
+}console.log("number5")
+for(i=0;i<=50;i+=5){
+    console.log(i)
+}console.log("number6")
+for(i=0;i<=60;i+=6){
+    console.log(i)
+}console.log("number7")
+for(i=0;i<=70;i+=7){
+    console.log(i)
+}console.log("number8")
+for(i=0;i<=80;i+=8){
+    console.log(i)
+}console.log("number9")
+for(i=0;i<=90;i+=9){
+    console.log(i)
+}console.log("number10")
+for(i=0;i<=100;i+=10){
+    console.log(i)
+}
